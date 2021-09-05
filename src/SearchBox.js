@@ -22,20 +22,18 @@ class SearchBox extends React.Component {
 
     constructor(props) {
         super(props)
-        this.item = ["Channel",
+        this.item = ["Drake",
 
-            "YouTube",
+            "Distracted BoyFriend",
             "YouTuber",
-            "YouTube Channel",
-            "Blogger",
-            "Bollywood",
-            "Vlogger",
-            "Vechiles",
-            "Facebook",
+            "Change my Mind",
+            "Uno Draw 25 Cards",
+            "Batman",
+            "Monkey Puppet",
+            "Is this a Piegon",
+            "Dont you Squid ward",
             "Freelancer",
             "Facebook Page",
-            "Designer",
-            "Developer",
             "Web Designer",
             "Web Developer",
             "Login Form in HTML & CSS",
